@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="2000">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <g font-family="Roboto, Arial, sans-serif">
+    <text x="60" y="120" font-size="36" font-weight="700" fill="#0A66C2">Ruta de aprendizaje — IA práctica con Gemini</text>
+  </g>
+  <!-- 8 blocks -->
+  <g font-family="Roboto, Arial, sans-serif" font-size="22">
+    <!-- week 1 -->
+    <rect x="60" y="180" width="680" height="120" rx="12" fill="#E8F0FE"/>
+    <text x="90" y="220" fill="#0A66C2" font-weight="700">Semana 1 — Introducción a la IA y a Gemini</text>
+    <text x="90" y="250" fill="#333">Conceptos básicos + mini-lab</text>
+    <!-- week 2 -->
+    <rect x="60" y="320" width="680" height="120" rx="12" fill="#E8F7F1"/>
+    <text x="90" y="360" fill="#167F56" font-weight="700">Semana 2 — Prompt engineering básico</text>
+    <text x="90" y="390" fill="#333">Formulación de prompts y técnicas</text>
+    <!-- week 3 -->
+    <rect x="60" y="460" width="680" height="120" rx="12" fill="#FFF8E1"/>
+    <text x="90" y="500" fill="#B37A00" font-weight="700">Semana 3 — Herramientas de productividad</text>
+    <text x="90" y="530" fill="#333">Integración con Docs, Sheets y automatizaciones</text>
+    <!-- week 4 -->
+    <rect x="60" y="600" width="680" height="120" rx="12" fill="#F1F8E9"/>
+    <text x="90" y="640" fill="#33691E" font-weight="700">Semana 4 — Datos y análisis asistidos por IA</text>
+    <text x="90" y="670" fill="#333">Limpieza, insights y visualizaciones</text>
+    <!-- week 5 -->
+    <rect x="60" y="740" width="680" height="120" rx="12" fill="#EDE7F6"/>
+    <text x="90" y="780" fill="#5E35B1" font-weight="700">Semana 5 — Automatización y asistentes</text>
+    <text x="90" y="810" fill="#333">Diseño de bots y flujos</text>
+    <!-- week 6 -->
+    <rect x="60" y="880" width="680" height="120" rx="12" fill="#FFF3E0"/>
+    <text x="90" y="920" fill="#E65100" font-weight="700">Semana 6 — Creatividad y contenido visual</text>
+    <text x="90" y="950" fill="#333">Generación de imágenes y diseños</text>
+    <!-- week 7 -->
+    <rect x="60" y="1020" width="680" height="120" rx="12" fill="#E3F2FD"/>
+    <text x="90" y="1060" fill="#0277BD" font-weight="700">Semana 7 — Asistencia en código (opcional)</text>
+    <text x="90" y="1090" fill="#333">Copilot, refactor y tests</text>
+    <!-- week 8 -->
+    <rect x="60" y="1160" width="680" height="120" rx="12" fill="#FBE9E7"/>
+    <text x="90" y="1200" fill="#B71C1C" font-weight="700">Semana 8 — Ética, privacidad y proyecto final</text>
+    <text x="90" y="1230" fill="#333">Políticas, presentaciones y KPIs</text>
+  </g>
+</svg>

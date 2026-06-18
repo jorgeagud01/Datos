@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#0A66C2"/>
+      <stop offset="100%" stop-color="#1CA66B"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <g font-family="Roboto, Arial, sans-serif" fill="#ffffff">
+    <text x="60" y="120" font-size="36" font-weight="700">Capacitación en IA práctica con Gemini</text>
+    <text x="60" y="170" font-size="20">Serie para colaboradores — 8 semanas · Formato híbrido</text>
+  </g>
+  <rect x="1040" y="20" width="140" height="60" rx="6" fill="#ffffff" opacity="0.08"/>
+</svg>
