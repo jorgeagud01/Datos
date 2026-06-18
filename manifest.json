@@ -1,0 +1,25 @@
+{
+  "name": "IA_practica_con_Gemini_package",
+  "version": "1.0.0",
+  "description": "Material de capacitación: slides (contenido), emails, prompts e instrucciones para generar imágenes y convertir a Google Slides.
+  ",
+  "files": [
+    "slides/session_01.md",
+    "slides/session_02.md",
+    "slides/session_03.md",
+    "slides/session_04.md",
+    "slides/session_05.md",
+    "slides/session_06.md",
+    "slides/session_07.md",
+    "slides/session_08.md",
+    "emails/01_invitacion.md",
+    "emails/02_recordatorio_1semana.md",
+    "emails/03_recordatorio_1dia.md",
+    "emails/04_post_sesion.md",
+    "emails/05_certificado.md",
+    "prompts/prompts_gemini.md",
+    "prompts/prompts_text_to_image.md",
+    "resources/exercises_overview.md",
+    "images/README_images.md"
+  ]
+}
